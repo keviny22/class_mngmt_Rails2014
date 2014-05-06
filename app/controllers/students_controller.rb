@@ -5,6 +5,8 @@ class StudentsController < ApplicationController
   # GET /students.json
   def index
     @students = Student.all
+    @read_more = params[:read_more]
+    # implied render 'index' -kyoung
   end
 
   # GET /students/1

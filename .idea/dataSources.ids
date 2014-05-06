@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source source="LOCAL" name="Rails class_mngmt: development" uuid="6936d6dc-fb30-4c33-aa92-c26b05382c41">
-    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
-  </data-source>
-  <data-source source="LOCAL" name="Rails class_mngmt: test" uuid="b1942c1d-117a-457b-8ac6-79ac2e115551">
-    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
-  </data-source>
-  <data-source source="LOCAL" name="Rails class_mngmt: production" uuid="32d128e2-0da6-4f5f-8b71-fe0b2f863d13">
+  <data-source source="LOCAL" name="Rails class_mngmt: development" uuid="12b257bd-ae9c-4cbe-a9ff-52b5b645ecad">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>
